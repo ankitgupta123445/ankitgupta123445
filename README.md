@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 * 🔭 I’m currently working on myself.<br>
 * 🌱 I’m currently learning competitive programming.<br>
-* 🤔 I’m currenly work on meachine learning <br>
+* 🤔 I’m currenly work on machine learning <br>
 * 💬 Ask me about anything for help.<br>
 * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
 
