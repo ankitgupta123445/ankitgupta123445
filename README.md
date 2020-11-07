@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
-[linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
-[Facebook]: https://www.facebook.com/REYAN.SINGH.75436/
+[linkedin]: https://www.linkedin.com/in/ankit-gupta-367272185/
+[Facebook]: https://www.facebook.com/profile.php?id=100009868860991
