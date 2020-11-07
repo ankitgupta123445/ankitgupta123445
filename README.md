@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
 
 
-![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
+![](https://komarev.com/ghpvc/?username=ankitgupta123445&color=blue&style=plastic&label=Github+Profile+Views)
+https://rushter.com/counter.svg
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
 [linkedin]: https://www.linkedin.com/in/ankit-gupta-367272185/
 [Facebook]: https://www.facebook.com/profile.php?id=100009868860991
-https://camo.githubusercontent.com/a793a63369525a425de15e0c8f9ca4f18b071ef21b9043aa19c7eefaed330231/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d697368726176696d616c393926636f6c6f723d626c7565267374796c653d706c6173746963266c6162656c3d4769746875622b50726f66696c652b5669657773
