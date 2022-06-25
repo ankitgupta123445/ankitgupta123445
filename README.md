@@ -7,13 +7,13 @@
 <p align="center">
 
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
-  <a href="https://leetcode.com/ankitgupta123445/">
+  <a href="https://leetcode.com//">
     <img height=30 img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode">
   </a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
-    <a href="https://www.hackerrank.com/_181500096">
-        <img height=30 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    <a href="https://www.hackerrank.com/">
+        <img height=30 src="https://sharp.services.greenhouse.io/production/integrations/hackerrank-color-resized-75nmq02hm.png?auto=format&fit=max&lossless=true&q=90&w=430&s=9545d538a825e5ba6ab1bf11ce9b1a24c39d7bf8560c09b65455914542050991">
     </a>
     <a href="https://auth.geeksforgeeks.org/user/ankitgupta123445/profile">
         <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
